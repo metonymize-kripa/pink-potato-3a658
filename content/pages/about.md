@@ -64,7 +64,7 @@ sections:
             new_window: true
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
+    title: Team with KIP Engineers
     content: >
       We are always looking for great people to join our team. If you are
       interested in working with us, please send an email to
