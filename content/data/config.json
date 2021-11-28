@@ -6,7 +6,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "KIP.Engineer",
-        "logo": "images/new-logo.png",
+        "logo": "images/kip-logo.png",
         "logo_alt": "KIP logo",
         "has_nav": true,
         "nav_links": [
