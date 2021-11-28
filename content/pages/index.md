@@ -44,14 +44,10 @@ sections:
           *   Design strategy
       - title: Engineering
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Value Engineering
+          *   Concept development
+          *   Quality and Risk review 
       - title: Tools
         image: images/service-3.svg
         content: |-
