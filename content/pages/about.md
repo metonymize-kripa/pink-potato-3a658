@@ -4,15 +4,16 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Parisha Chanodia has been working in the Prestressed Concrete Industry
+      Parisha Chanodia is the Lead Engineer and Founding Partner at KIP
+      Engineering. Parisha has been working in the Prestressed Concrete Industry
       since 1999. She has served as Chapter Chair at PCI since 2015, and has
       managed and delivered over 20 Global projects -- including the Eagles
       Stadium, etc.
 
 
-      Along with a number of trusted friends and advisors she formed KIP
-      Engineering. Our mission is to focus on quality engineering, to help
-      accelerate how the concrete industry delivers value and develops teams.
+      Along with a few trusted friends and advisors she formed KIP Engineering.
+      With a mission to focus on quality engineering, to help accelerate how the
+      concrete industry delivers value and develops teams.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
