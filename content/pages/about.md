@@ -3,15 +3,14 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >
+      Parisha Chanodia has been working in the Prestressed Concrete Industry
+      since 1999. She has ...
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      Along with a number of trusted friends and advisors she formed KIP
+      Engineering to help accelerate how the concrete industry delivers value
+      and develops teams. 
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
