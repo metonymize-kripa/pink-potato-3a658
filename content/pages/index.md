@@ -7,9 +7,8 @@ sections:
     title: 'Training, Engineering, Tools'
     content: >
       We are a structural engineering design and training practice. We work
-      closely with you, your team to deliver value and results faster and
-      better, enabling your teams to deliver more for less. [Let's
-      talk](/contact/).
+      closely with your team to help deliver quality and value, faster and
+      better. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
