@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Team building
 subtitle: Brand Development
 date: '2020-03-10'
 thumb_image: /images/about.jpg
