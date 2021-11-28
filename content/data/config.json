@@ -2,7 +2,7 @@
     "title": "Stackbit Agency Theme",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "blue",
     "base_font": "fraunces",
     "header": {
         "title": "KIP.Engineer",
@@ -44,22 +44,8 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/parisha-chanodia-435b57a/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
