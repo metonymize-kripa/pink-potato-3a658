@@ -1,6 +1,6 @@
 ---
 title: Value Engineering
-subtitle: Editorial Design
+subtitle: Global 50 Project
 date: '2020-05-10'
 thumb_image: /images/post-1.jpg
 thumb_image_alt: Nature Mockup Magazine preview
