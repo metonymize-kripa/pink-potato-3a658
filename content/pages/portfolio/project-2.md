@@ -1,6 +1,6 @@
 ---
 title: Team building
-subtitle: Brand Development
+subtitle: Junior Engineering Staff Training & Development
 date: '2020-03-10'
 thumb_image: /images/about.jpg
 thumb_image_alt: Aimi preview
