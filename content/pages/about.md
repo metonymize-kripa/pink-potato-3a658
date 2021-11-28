@@ -5,12 +5,14 @@ sections:
   - type: content_section
     content: >
       Parisha Chanodia has been working in the Prestressed Concrete Industry
-      since 1999. She has ...
+      since 1999. She has served as Chapter Chair at PCI since 2015, and has
+      managed and delivered over 20 Global projects -- including the Eagles
+      Stadium, etc.
 
 
       Along with a number of trusted friends and advisors she formed KIP
       Engineering to help accelerate how the concrete industry delivers value
-      and develops teams. 
+      and develops teams.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
