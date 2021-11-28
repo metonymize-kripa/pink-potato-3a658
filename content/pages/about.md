@@ -19,7 +19,7 @@ sections:
   - type: grid_section
     section_id: team
     title: The Team
-    subtitle: An optional subtitle of the section
+    subtitle: Exceptional Engineers with Experience
     col_number: three
     grid_items:
       - title: Gustav Purpleson
