@@ -39,8 +39,8 @@ sections:
       - title: Training
         image: images/service-1.svg
         content: |
-          *   Research and insight
-          *   Business innovation and transformation
+          *   Development training
+          *   Innovation and transformation
           *   Design strategy
       - title: Engineering
         image: images/service-2.svg
