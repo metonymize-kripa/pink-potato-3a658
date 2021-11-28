@@ -11,8 +11,8 @@ sections:
 
 
       Along with a number of trusted friends and advisors she formed KIP
-      Engineering to help accelerate how the concrete industry delivers value
-      and develops teams.
+      Engineering. Our mission is to focus on quality engineering, to help
+      accelerate how the concrete industry delivers value and develops teams.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
