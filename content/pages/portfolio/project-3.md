@@ -1,6 +1,6 @@
 ---
 title: PCI 2024
-subtitle: Editorial Design
+subtitle: Chapter chair
 date: '2020-04-10'
 thumb_image: /images/post-4-thumb.jpg
 thumb_image_alt: The Book preview
