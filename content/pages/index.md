@@ -29,8 +29,7 @@ sections:
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
-      - image: images/logo-5.svg
-        image_alt: Logo 5
+      - image_alt: Logo 5
   - type: grid_section
     section_id: services
     title: Services
