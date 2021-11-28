@@ -50,7 +50,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
-      - title: Brand design
+      - title: Engineering
         image: images/service-2.svg
         content: |-
           - Brand development
