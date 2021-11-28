@@ -46,8 +46,8 @@ sections:
         image: images/service-2.svg
         content: |
           *   Value Engineering
-          *   Concept development
-          *   Quality and Risk review 
+          *   Code compliance
+          *   Quality and Risk review
       - title: Tools
         image: images/service-3.svg
         content: |-
