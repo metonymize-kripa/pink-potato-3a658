@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Value Engineering
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: /images/post-1.jpg
