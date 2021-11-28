@@ -1,5 +1,5 @@
 ---
-title: The Book
+title: PCI 2024
 subtitle: Editorial Design
 date: '2020-04-10'
 thumb_image: /images/post-4-thumb.jpg
