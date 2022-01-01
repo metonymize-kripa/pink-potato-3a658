@@ -5,12 +5,6 @@ sections:
   - type: content_section
     content: >
           Parisha Chanodia is the founder of KIP engineer that aims to provide the engineering team with a training platform on precast engineering topics based on current codes, manuals, and standards.
-          
-Parisha graduated from UWM Milwaukee in 2001 and joined the Consulting Engineers Group, Inc. in IL soon after. She worked on several precast design projects that included stadiums, parking garages, industrial buildings, and litigation work until 2012. Soon after, she became an independent consultant and helped with peer review of calculations, training, and consulting. She is a member of PCI and is currently serving on the 9th edition industry handbook committee.
-
-The fast-paced growth of the precast industry created a demand for a training platform which then helped create KIP engineer with the help of trusted advisors and friends from the precast industry.
-
-
 
     image: images/about.jpg
     image_alt: Our team in the meeting room
