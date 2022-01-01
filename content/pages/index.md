@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: 'Training, Engineering, Tools'
+    title: 'Training, Consulting, Tools'
     content: >
       We are a structural engineering design and training practice. We work
       closely with your team to help deliver quality and value, faster and
