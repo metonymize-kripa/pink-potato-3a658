@@ -4,16 +4,12 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Parisha Chanodia is the Lead Engineer and Founding Partner at KIP
-      Engineering. Parisha has been working in the Prestressed Concrete Industry
-      since 1999. She has served as Chapter Chair at PCI since 2015, and has
-      managed and delivered over 20 Global projects -- including the Eagles
-      Stadium, etc.
+Parisha Chanodia is the founder of KIP engineer that aims to provide the engineering team with a training platform on precast engineering topics based on current codes, manuals, and standards.
+Parisha graduated from UWM Milwaukee in 2001 and joined the Consulting Engineers Group, Inc. in IL soon after. She worked on several precast design projects that included stadiums, parking garages, industrial buildings, and litigation work until 2012. Soon after, she became an independent consultant and helped with peer review of calculations, training, and consulting.
+The fast-paced growth of the precast industry created a demand for a training platform which then helped create KIP engineer with the help of trusted advisors and friends from the precast industry.
+She is a member of PCI and s currently serving on the 9th edition industry handbook committee.
 
 
-      Along with a few trusted friends and advisors she formed KIP Engineering.
-      With a mission to focus on quality engineering, to help accelerate how the
-      concrete industry delivers value and develops teams.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
